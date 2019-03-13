@@ -2,7 +2,7 @@
 # If no ~/.slate file exists this is the file that will be used.
 
 config defaultToCurrentScreen true
-config nudgePercentOf screenSize
+config nudgePercentOf screenSiz
 config resizePercentOf screenSize
 
 # Resize Bindings
